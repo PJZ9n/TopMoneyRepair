@@ -1,0 +1,8 @@
+name: TopMoneyRepair
+main: TopMoneyRepair\main
+version: 1.0.3
+api: [4.0.0]
+load: POSTWORLD
+author: PJZ9n
+desctiption: PMMP TopMoneyRepair Plugin
+website: https://www.github.com/pjz9n
